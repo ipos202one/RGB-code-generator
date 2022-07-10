@@ -1,0 +1,8 @@
+E:\Test Win32 C\RGB code generator\RGB code generator\bin\x64\Debug\RGB code generator.exe.config
+E:\Test Win32 C\RGB code generator\RGB code generator\bin\x64\Debug\RGB code generator.exe
+E:\Test Win32 C\RGB code generator\RGB code generator\bin\x64\Debug\RGB code generator.pdb
+E:\Test Win32 C\RGB code generator\RGB code generator\obj\x64\Debug\RGB_code_generator.RGBcgen.resources
+E:\Test Win32 C\RGB code generator\RGB code generator\obj\x64\Debug\RGB_code_generator.Properties.Resources.resources
+E:\Test Win32 C\RGB code generator\RGB code generator\obj\x64\Debug\RGB code generator.csproj.GenerateResource.Cache
+E:\Test Win32 C\RGB code generator\RGB code generator\obj\x64\Debug\RGB code generator.exe
+E:\Test Win32 C\RGB code generator\RGB code generator\obj\x64\Debug\RGB code generator.pdb
